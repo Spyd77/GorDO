@@ -1,3 +1,10 @@
+/*
+Garage Door Opener
+By Ferran Piñana aka Spyd
+License: Open source, please contribute if you modify this code, please retain credits, if you use this please leave comments and impressions.
+https://github.com/Spyd77/GorDO
+*/
+
 #include <SoftwareSerial.h>
 #include <EEPROM.h>
 
